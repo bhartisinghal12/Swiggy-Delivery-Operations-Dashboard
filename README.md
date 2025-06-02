@@ -84,4 +84,4 @@ An interactive Power BI dashboard created to visualize and optimize Swiggy’s d
 - **City Filter** – Analyze performance by metro area  
 - **Area Filter** – Deep dive into specific localities
 
-![Alt Text]()
+![Alt Text](https://github.com/bhartisinghal12/Swiggy-Delivery-Operations-Dashboard/blob/main/Swiggy%20Dashboard%20Snap.PNG)
