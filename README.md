@@ -4,11 +4,6 @@ An interactive Power BI dashboard created to visualize and optimize Swiggy’s d
 
 ---
 
-## 📸 Dashboard Preview
-
-![Swiggy Dashboard](Swiggy%20Dashboard%20Snap.PNG)
-
----
 
 ## 📈 Key Metrics
 
@@ -89,4 +84,4 @@ An interactive Power BI dashboard created to visualize and optimize Swiggy’s d
 - **City Filter** – Analyze performance by metro area  
 - **Area Filter** – Deep dive into specific localities
 
-
+![Alt Text]()
